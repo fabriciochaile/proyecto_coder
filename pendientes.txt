@@ -1,0 +1,6 @@
+acomodar: tipos de letra
+animaciones
+hacer que al apretar en el logo te lleve al hero
+pegar el footer al final de la pagina
+adaptar todas las paginas a otras resoluciones.
+colocar banner en pagina de nosotros con diferentes estampas
